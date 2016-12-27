@@ -1,0 +1,25 @@
+{
+  "name": "best-practices",
+  "version": "0.1.0",
+  "description": "Collection of various best practices in the world of booking and travelling.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiseCZ/best-practices.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiseCZ/best-practices/issues"
+  },
+  "homepage": "https://github.com/MiseCZ/best-practices#readme",
+  "dependencies": {
+    "showdown": "^1.5.4"
+  }
+}
